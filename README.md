@@ -1,4 +1,4 @@
-# repo-name-here
+# puppy-picture-gallery
 
  ![alt-text-here](img/puppy-gallery.png)
 
