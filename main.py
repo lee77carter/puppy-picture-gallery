@@ -10,7 +10,7 @@ def check_breed(breed):
   return "/".join(breed.split("-"))
 
 @app.route("/", methods=["GET","POST"])
-def dog_image_gallery():
+def dog_images_gallery():
   errors = []
   if request.method == "POST":
     breed = request.form.get("breed")
